@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="food_name">Food Name</string>
+    <string name="food_description">Description</string>
+    <string name="food_price">Price</string>
+    <string name="dummy_des">A smoothie is a beverage made by puréeing ingredients in a blender. A smoothie commonly has a liquid base, such as fruit juice or milk, yogurt or ice cream.</string>
+    <string name="category">Category</string>
+    <string name="hyphen">-</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
